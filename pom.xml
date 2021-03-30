@@ -50,7 +50,7 @@
             <classifier>mule-plugin</classifier>
         </dependency>
 	</dependencies>
-
+<!--test-->
 	<repositories>
           <repository>
             <id>anypoint-exchange-v2</id>
