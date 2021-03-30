@@ -1,2 +1,2 @@
 # gitrepository
-tutorial
+tutorials
